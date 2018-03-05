@@ -1,7 +1,6 @@
-<img src="https://github.com/IBMDataScience/Strata2017/blob/master/images/HeaderE.png">
 # Hands on Lab - Data Science Experience
 
-Description: Follow this lab and perform hands on exercises with IBM Data Science Expereince. Use a public data set of car accidents in united states and perform basic corrolations. Data Science Experience allows you to easily develop and share a model that scales using Apache Spark, Python or RStudio. 
+Description: Follow this lab and perform hands on exercises with IBM Data Science Expereince. Use a public data set of car accidents in united states and perform basic corrolations. Data Science Experience allows you to easily develop and share a model that scales using Apache Spark, Python or RStudio.
 
 # Instructions:
 
@@ -56,32 +55,8 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
  >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true" width="512" height="499" />
 
-# Step 3. Download Repository.
-## If you are at IBM Booth, then you can skip this part as the files are located on your desktop.
+# Step 3. Choose your own adventure
 
- 1. Download Repository from github https://github.com/IBMDataScience/WOW2016 to local directory.
- 
- >  <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/Zip.png"/>
- 
- 2. Unzip repo zip files locally.
+1. If you like coding and want to **try a notebook** in our environment go [here to get started](https://github.com/IBMDataScience/Strata2018/tree/master/Jupyter%20Notebook)!
 
-# Step 4. Create a new notebook.
-
- 1.  From the your project page, on the "Overview" tab click "add notebook"
-
- 2.  Click “Add Notebook” 
- 
- >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NewNotebook.png"/>
- 
- 3. Enter a notebook Name, Description and pick from File, click browse and pick VehicleAccidentLab.ipynb file downloaded. 
-
- >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NBFF.png" width="512"/>
-
- 3. Click on Create Notebook
-
-# Step 5. Follow Instructions in Notebook.
-
-
-
-
-
+2. Want to see the updated **SPSS Modeler** to build models without code?  [Get started with the tutorial here](https://github.com/IBMDataScience/Strata2018/tree/master/SPSS%20Modeler%20Flow)!
