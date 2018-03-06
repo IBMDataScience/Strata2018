@@ -9,5 +9,6 @@ Today we are using data set from UCI.This dataset was used for The Third Interna
 ## Create Notebook from link
 1. Copy path of notebook from github.
 2. Click on new notebook link on assets page of your project.
-![new project](Strata2018/Jupyter Notebook/images/new notebook.png)
+
+![new project](https://github.com/IBMDataScience/Strata2018/blob/master/Jupyter%20Notebook/images/new%20notebook.png)
 
