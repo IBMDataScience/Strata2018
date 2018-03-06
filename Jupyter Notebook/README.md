@@ -23,7 +23,7 @@ To get started let's first create notebook.
 2. Clean values by removing '.' from label columns
 3. Encode normal connection as 1 and all other connections as 0. These are bad connections.
 4. Create dummies for categorical variables.
-5. Downsample data to 100000 records.
+5. Downsample data to 1000000 records.
 
 ## Train - Test Splitting
 Divide data into train and test data sets.
