@@ -30,7 +30,9 @@ Divide data into train and test data sets.
 
 ##  Build Parallel XGBoost Classifier
 
-First lets try multithreading with default environment. We can see that there is no improvement in the speed after 2 threads because with XS environment we have only 2 cpus. Now lets upgrade environment to Small and see if we can make any improvement.
+First lets try multithreading with default XS environment. We can see that there is no improvement in the speed after 2 threads because with XS environment we have only 2 cpus. Now lets upgrade environment to Small and see if we can make any improvement.
+
+![Results from XS Env](https://github.com/IBMDataScience/Strata2018/blob/master/Jupyter%20Notebook/images/results%20with%20xs%20env.png)
 
 ## Switch Environment to Default Anaconda S
 Change environment to anaconda s (small) and again run the code.
