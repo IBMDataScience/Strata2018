@@ -10,7 +10,9 @@ We are using the UCI Chronic Kidney Disease data set from the Data Science Exper
  Go to the [Data Science Experience community](https://datascience.ibm.com/community). You can also navigate to the community from DSX by clicking the Community tab on the top panel.
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*Zmnd3s3ptuKeXzI-xURg6Q.png">
+
 #### Step 2
+
 Select the data set from the community and click the add (+) icon on the community card. Select your project and click Add.
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*12ZoPBRGJz65WUUzjTjhQw.png">
